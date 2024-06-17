@@ -1,4 +1,4 @@
 schedule: invalid schedule * * *
 steps:
   - name: step 1
-    command: "true and flase"
+    command: "true"
